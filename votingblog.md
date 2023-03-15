@@ -1,8 +1,12 @@
 # Voting Systems in Companies
 
+---
+
 ## 1. Introduction
 
 Voting systems are an important aspect of the decision-making process in companies. These systems enable shareholders or board members to have a say in important matters and ensure that decisions are made in a fair and transparent manner. In this essay, we will explore the different types of voting systems used in companies and how they impact decision-making.
+
+---
 
 ## 2. Main part
 
@@ -13,6 +17,8 @@ Cumulative voting is another voting system used in companies. This system allows
 Proxy voting is another system used in companies. In this system, shareholders can appoint someone else to vote on their behalf, typically a proxy or representative. This can be useful for shareholders who are unable to attend a meeting in person or who prefer to delegate their voting power to someone else.
 
 Preferential voting is a system that allows voters to rank candidates in order of preference, with the winner being the candidate with the most votes overall. This system can be useful for elections where there are multiple candidates running for a single position. It can help ensure that the winner has broad support and can reduce the likelihood of a candidate being elected with only a small percentage of the vote.
+
+---
 
 ## 3. Conclusion
 
