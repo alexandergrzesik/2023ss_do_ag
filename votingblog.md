@@ -1,6 +1,10 @@
 # Voting Systems in Companies
 
+## 1. Introduction
+
 Voting systems are an important aspect of the decision-making process in companies. These systems enable shareholders or board members to have a say in important matters and ensure that decisions are made in a fair and transparent manner. In this essay, we will explore the different types of voting systems used in companies and how they impact decision-making.
+
+## 2. Main part
 
 The most common type of voting system used in companies is simple majority voting. This system is easy to understand and straightforward. However, it has some limitations. For instance, it can result in decisions being made without the support of a significant minority. To address this limitation, some companies use supermajority voting, where decisions require a higher threshold of votes to pass. This system can help ensure that decisions have broad support, which is particularly important for major decisions that may have significant implications for the company and its stakeholders.
 
@@ -9,5 +13,7 @@ Cumulative voting is another voting system used in companies. This system allows
 Proxy voting is another system used in companies. In this system, shareholders can appoint someone else to vote on their behalf, typically a proxy or representative. This can be useful for shareholders who are unable to attend a meeting in person or who prefer to delegate their voting power to someone else.
 
 Preferential voting is a system that allows voters to rank candidates in order of preference, with the winner being the candidate with the most votes overall. This system can be useful for elections where there are multiple candidates running for a single position. It can help ensure that the winner has broad support and can reduce the likelihood of a candidate being elected with only a small percentage of the vote.
+
+## 3. Conclusion
 
 In conclusion, voting systems are essential in the decision-making process in companies. The use of these systems helps ensure that decisions are made in a fair and transparent manner and that all stakeholders have a voice in the decision-making process. While simple majority voting is the most common system used in companies, there are several other systems available, including supermajority voting, cumulative voting, proxy voting, and preferential voting. The specific system used will depend on the company's bylaws and the nature of the decision being made. By using an appropriate voting system, companies can ensure that decisions are made in a way that is fair, transparent, and beneficial to all stakeholders.
