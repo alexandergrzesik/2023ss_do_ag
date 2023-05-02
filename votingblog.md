@@ -1,25 +1,51 @@
-# Voting Systems in Companies
+---
+theme: moon
+---
+
+# Voting Systems
+
+<img src="pen-g1abc44c9a_1920.jpg" alt="Alt text" width="500" height="400">
 
 ---
 
-## 1. Introduction
+## What is a Voting System?
 
-Voting systems are an important aspect of the decision-making process in companies. These systems enable shareholders or board members to have a say in important matters and ensure that decisions are made in a fair and transparent manner. In this essay, we will explore the different types of voting systems used in companies and how they impact decision-making.
-
----
-
-## 2. Main part
-
-The most common type of voting system used in companies is simple majority voting. This system is easy to understand and straightforward. However, it has some limitations. For instance, it can result in decisions being made without the support of a significant minority. To address this limitation, some companies use supermajority voting, where decisions require a higher threshold of votes to pass. This system can help ensure that decisions have broad support, which is particularly important for major decisions that may have significant implications for the company and its stakeholders.
-
-Cumulative voting is another voting system used in companies. This system allows shareholders to concentrate their votes on a single candidate for a board of directors' position, rather than distributing their votes among multiple candidates. This can be useful for minority shareholders who want to ensure that their preferred candidate is elected to the board.
-
-Proxy voting is another system used in companies. In this system, shareholders can appoint someone else to vote on their behalf, typically a proxy or representative. This can be useful for shareholders who are unable to attend a meeting in person or who prefer to delegate their voting power to someone else.
-
-Preferential voting is a system that allows voters to rank candidates in order of preference, with the winner being the candidate with the most votes overall. This system can be useful for elections where there are multiple candidates running for a single position. It can help ensure that the winner has broad support and can reduce the likelihood of a candidate being elected with only a small percentage of the vote.
+- A voting system is a way of electing candidates or deciding on issues by casting and counting votes.
+- There are many different types of voting systems, each with its own advantages and disadvantages.
+- In this presentation, we'll explore some of the most common voting systems and how they work.
 
 ---
 
-## 3. Conclusion
+## First-Past-The-Post (FPTP)
 
-In conclusion, voting systems are essential in the decision-making process in companies. The use of these systems helps ensure that decisions are made in a fair and transparent manner and that all stakeholders have a voice in the decision-making process. While simple majority voting is the most common system used in companies, there are several other systems available, including supermajority voting, cumulative voting, proxy voting, and preferential voting. The specific system used will depend on the company's bylaws and the nature of the decision being made. By using an appropriate voting system, companies can ensure that decisions are made in a way that is fair, transparent, and beneficial to all stakeholders.
+- FPTP is the most commonly used voting system in the world, including in the United States, Canada, and the United Kingdom.
+- Voters cast a single vote for their preferred candidate, and the candidate with the most votes wins.
+- FPTP can be simple and easy to understand, but it can also lead to "wasted" votes and disproportionate representation.
+
+---
+
+## Alternative Vote (AV)
+
+- AV is a ranked voting system where voters rank candidates in order of preference.
+- If no candidate receives a majority of first-preference votes, the candidate with the fewest votes is eliminated, and their votes are redistributed to the remaining candidates according to their second preferences.
+- This process continues until one candidate has a majority of votes.
+- AV can be more representative than FPTP, but it can also be more complex and time-consuming.
+
+---
+
+## Single Transferable Vote (STV)
+
+- STV is a proportional voting system where voters rank candidates in order of preference, similar to AV.
+- However, STV is designed to ensure that each vote counts towards electing a candidate.
+- Instead of eliminating candidates and redistributing their votes, STV uses a formula to transfer excess votes from winning candidates to other candidates, based on the voters' preferences.
+- STV can be highly representative and promote voter satisfaction, but it can also be complex and require significant resources to implement.
+
+---
+
+## Comparison Table
+
+| Voting System | Pros                                                  | Cons                                                           |
+| ------------- | ----------------------------------------------------- | -------------------------------------------------------------- |
+| FPTP          | Simple and easy to understand                         | Can lead to "wasted" votes and disproportionate representation |
+| AV            | More representative than FPTP                         | Can be more complex and time-consuming                         |
+| STV           | Highly representative and promotes voter satisfaction | Can be complex and require significant resources to implement  |
