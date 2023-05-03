@@ -8,6 +8,17 @@ theme: moon
 
 ---
 
+# Agenda
+
+1. Voting System
+2. Voter Turnout and Solution
+3. Different Types of Voting Systems
+4. Comparison
+5. Interactive Part
+6. Conclusion
+
+---
+
 ## What is a Voting System?
 
 - Electing candidates or deciding on issues by casting and counting votes
@@ -25,12 +36,15 @@ theme: moon
 ## Online Voting
 
 1. Pros
+
    Convenient, accessible, and efficient
 
 2. Cons
+
    Security concerns and potential for hacking or fraud
 
 3. Comparison
+
    Compared to traditional voting methods, online voting has both advantages and drawbacks.
 
 ---
