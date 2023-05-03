@@ -10,9 +10,9 @@ theme: moon
 
 ## What is a Voting System?
 
-- Electing candidates or deciding on issues by casting and counting votes.
+- Electing candidates or deciding on issues by casting and counting votes
 - Many different types of voting systems
-- Each with advantages and disadvantages.
+- Each with advantages and disadvantages
 
 ---
 
@@ -22,19 +22,41 @@ theme: moon
 
 ---
 
+## Online Voting
+
+1. Pros
+   Convenient, accessible, and efficient
+
+2. Cons
+   Security concerns and potential for hacking or fraud
+
+3. Comparison
+   Compared to traditional voting methods, online voting has both advantages and drawbacks.
+
+---
+
+## Block Chain Voting
+
+|     Advantages     | Disadvantages |
+| :----------------: | :-----------: |
+| Increased security |  Complexity   |
+|      Accuracy      |     Costs     |
+
+---
+
 ## First-Past-The-Post (FPTP)
 
 - FPTP is the most commonly used voting system
 - Cast a single Vote and most Votes win
 - Simple and easy to understand
-- "Wasted" votes and disproportionate representation.
+- "Wasted" votes and disproportionate representation
 
 ---
 
 ## Single Transferable Vote (STV)
 
 - Ranking in order of preference
-- Ensure that each vote counts.
+- Ensure that each vote counts
 - Excess votes from winning candidates to other candidates
 - Highly representative and promote voter satisfaction
 - Complex with high resources
@@ -43,10 +65,10 @@ theme: moon
 
 ## Ranked Choice Voting (RCV)
 
-- Ranked voting system in order of preference.
+- Ranked voting system in order of preference
 - If no candidate receives a majority...
 - ...Elimination of least votes
-- Continues until one candidate has a majority of votes.
+- Continues until one candidate has a majority of votes
 - More representative
 - More time consuming
 
